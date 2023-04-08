@@ -1,6 +1,0 @@
-git clone
-git add .
-git push orgin main 
-
-
-git  comit -m "update new fixes"
